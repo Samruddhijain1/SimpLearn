@@ -3,6 +3,7 @@
 Collaborators: 
 Pranav Mantri
 Avni Gupta
+Samruddhi Jain
 
 A compiler for **Simplearn** — a simple, Pascal-inspired programming language. Written using **Lex** (lexer) and **Yacc** (parser), it translates `.sl` / `.txt` source files into C code (`a.c`), which can then be compiled and run.
 
